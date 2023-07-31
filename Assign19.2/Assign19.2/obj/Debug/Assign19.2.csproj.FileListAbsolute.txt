@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\bin\Debug\Assign19.2.exe.config
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\bin\Debug\Assign19.2.exe
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\bin\Debug\Assign19.2.pdb
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\obj\Debug\Assign19.2.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\obj\Debug\Assign19.2.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\obj\Debug\Assign19.2.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\obj\Debug\Assign19.2.exe
+M:\Simplilearn\mphasis\Day16\Assign19\Assign19.2\Assign19.2\obj\Debug\Assign19.2.pdb
